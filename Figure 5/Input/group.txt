@@ -1,0 +1,13 @@
+variable	Group
+In_TC1	In-TC
+In_TC4	In-TC
+In_TC6	In-TC
+In_TC8	In-TC
+Ex_TC1	Ex-TC
+Ex_TC2	Ex-TC
+Ex_TC3	Ex-TC
+Ex_TC4	Ex-TC
+QY1	QY
+QY2	QY
+QY4	QY
+QY5	QY

@@ -1,0 +1,20 @@
+layer3	ID	Input.number	Background.number	pvalue	FDR	Group
+Cytokine-cytokine receptor interaction	ko04060	34	195	4.43E-05	0.009746546	In-TC-vs-Ex-TC
+T cell receptor signaling pathway	ko04660	24	125	0.000123753	0.013612811	In-TC-vs-Ex-TC
+Th1 and Th2 cell differentiation	ko04658	17	77	0.000208476	0.015288251	In-TC-vs-Ex-TC
+Chemokine signaling pathway	ko04062	24	133	0.000329807	0.018139408	In-TC-vs-Ex-TC
+Cell adhesion molecules (CAMs)	ko04514	28	173	0.000699609	0.030782786	In-TC-vs-Ex-TC
+Natural killer cell mediated cytotoxicity	ko04650	14	67	0.00130656	0.047907195	In-TC-vs-Ex-TC
+Cytokine-cytokine receptor interaction	ko04060	38	195	9.20E-08	1.90E-05	In-TC-vs-QY
+T cell receptor signaling pathway	ko04660	27	125	8.08E-07	8.36E-05	In-TC-vs-QY
+Natural killer cell mediated cytotoxicity	ko04650	17	67	9.17E-06	0.00063286	In-TC-vs-QY
+Th1 and Th2 cell differentiation	ko04658	18	77	1.72E-05	0.000891	In-TC-vs-QY
+ECM-receptor interaction	ko04512	18	80	3.00E-05	0.001240285	In-TC-vs-QY
+Cell adhesion molecules (CAMs)	ko04514	28	173	0.000145511	0.005020136	In-TC-vs-QY
+Chemokine signaling pathway	ko04062	23	133	0.000205138	0.006066227	In-TC-vs-QY
+Protein digestion and absorption	ko04974	16	86	0.000806905	0.020878658	In-TC-vs-QY
+Cholesterol metabolism	ko04979	12	55	0.000830516	0.019101862	In-TC-vs-QY
+Th17 cell differentiation	ko04659	16	93	0.001909362	0.039523799	In-TC-vs-QY
+Cell adhesion molecules (CAMs)	ko04514	20	173	1.68E-06	0.000315666	Ex-TC-vs-QY
+Phagosome	ko04145	18	159	7.41E-06	0.00069695	Ex-TC-vs-QY
+Antigen processing and presentation	ko04612	14	103	9.41E-06	0.000589983	Ex-TC-vs-QY

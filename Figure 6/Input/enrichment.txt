@@ -1,0 +1,18 @@
+layer3	Input.number	Background.number	pvalue	Group
+Cell adhesion molecules (CAMs)	51	173	5.69E-06	In-TC-vs-Ex-TC
+Viral protein interaction with cytokine and cytokine receptor	22	56	0.000116324	In-TC-vs-Ex-TC
+Antigen processing and presentation	32	103	0.000205033	In-TC-vs-Ex-TC
+Phagosome	38	159	0.012074309	In-TC-vs-Ex-TC
+Cellular senescence	38	160	0.012825962	In-TC-vs-Ex-TC
+Metabolism of xenobiotics by cytochrome P450	12	34	0.028739836	In-TC-vs-Ex-TC
+Cell adhesion molecules (CAMs)	47	173	1.31E-05	In-TC-vs-QY
+Viral protein interaction with cytokine and cytokine receptor	21	56	0.000137548	In-TC-vs-QY
+Antigen processing and presentation	30	103	0.000189364	In-TC-vs-QY
+Cytokine-cytokine receptor interaction	43	195	0.002019232	In-TC-vs-QY
+T cell receptor signaling pathway	29	125	0.009609316	In-TC-vs-QY
+Intestinal immune network for IgA production	11	36	0.048316023	In-TC-vs-QY
+Antigen processing and presentation	16	103	4.76E-05	Ex-TC-vs-QY
+Cell adhesion molecules (CAMs)	18	173	0.001622352	Ex-TC-vs-QY
+Salivary secretion	11	71	0.001172716	Ex-TC-vs-QY
+Phagosome	17	159	0.000963925	Ex-TC-vs-QY
+Cellular senescence	14	160	0.031183323	Ex-TC-vs-QY

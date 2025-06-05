@@ -1,0 +1,16 @@
+variable	Group
+HT1	In-TC
+HT2	In-TC
+HT3	In-TC
+HT4	In-TC
+HT5	In-TC
+LT1	Ex-TC
+LT2	Ex-TC
+LT3	Ex-TC
+LT4	Ex-TC
+LT5	Ex-TC
+QY1	QY
+QY2	QY
+QY3	QY
+QY4	QY
+QY5	QY

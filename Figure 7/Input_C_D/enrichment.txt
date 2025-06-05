@@ -1,0 +1,26 @@
+layer3	Input.number	Background.number	pvalue	Group
+PPAR signaling pathway	23	69	9.48E-06	In-TC-vs-Ex-TC
+Cell cycle	26	118	0.004024004	In-TC-vs-Ex-TC
+Steroid hormone biosynthesis	13	39	0.002840322	In-TC-vs-Ex-TC
+Antigen processing and presentation	21	103	0.033753072	In-TC-vs-Ex-TC
+Biosynthesis of antibiotics	34	204	0.037790026	In-TC-vs-Ex-TC
+Retinol metabolism	11	40	0.036299045	In-TC-vs-Ex-TC
+Phagosome	28	159	0.03179114	In-TC-vs-Ex-TC
+Fatty acid metabolism	14	59	0.02915044	In-TC-vs-Ex-TC
+Fatty acid degradation	10	36	0.037699077	In-TC-vs-Ex-TC
+Pyruvate metabolism	10	36	0.033929169	In-TC-vs-Ex-TC
+Biosynthesis of secondary metabolites	57	406	0.035108433	In-TC-vs-Ex-TC
+PPAR signaling pathway	19	69	0.000144208	In-TC-vs-QY
+Fatty acid metabolism	17	59	0.000138809	In-TC-vs-QY
+Fatty acid degradation	13	36	9.70E-05	In-TC-vs-QY
+Butanoate metabolism	8	23	0.011349271	In-TC-vs-QY
+"Valine, leucine and isoleucine degradation"	12	49	0.011319589	In-TC-vs-QY
+Synthesis and degradation of ketone bodies	5	10	0.017939552	In-TC-vs-QY
+Fatty acid biosynthesis	7	20	0.015681967	In-TC-vs-QY
+Biosynthesis of antibiotics	29	204	0.025585003	In-TC-vs-QY
+Biosynthesis of secondary metabolites	49	406	0.02579662	In-TC-vs-QY
+Propanoate metabolism	8	31	0.042105819	In-TC-vs-QY
+Phagosome	23	159	0.04790268	In-TC-vs-QY
+Antigen processing and presentation	12	103	0.038292214	Ex-TC-vs-QY
+Drug metabolism - other enzymes	8	56	0.031030267	Ex-TC-vs-QY
+Salivary secretion	8	71	0.043877726	Ex-TC-vs-QY

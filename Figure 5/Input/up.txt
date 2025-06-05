@@ -1,0 +1,325 @@
+Ex-TC-vs-QY	In-TC-vs-Ex-TC	In-TC-vs-QY
+Com_1996_pos	Com_1119_neg	Com_341_pos
+Com_2121_neg	Com_196_pos	Com_196_pos
+Com_2684_pos	Com_537_neg	Com_591_pos
+Com_14279_pos	Com_591_pos	Com_344_pos
+Com_595_neg	Com_634_neg	Com_1683_neg
+Com_855_pos	Com_341_pos	Com_241_neg
+Com_127_pos	Com_344_pos	Com_490_neg
+Com_3446_pos	Com_346_neg	Com_399_pos
+Com_60_neg	Com_699_pos	Com_1119_neg
+Com_793_pos	Com_1358_pos	Com_1358_pos
+Com_9472_pos	Com_563_pos	Com_3442_pos
+Com_8012_neg	Com_3006_pos	Com_61_pos
+Com_454_neg	Com_3442_pos	Com_746_pos
+Com_22796_pos	Com_746_pos	Com_942_pos
+Com_14633_pos	Com_4836_pos	Com_6899_pos
+Com_61_pos	Com_194_neg	Com_563_pos
+Com_9168_pos	Com_681_pos	Com_2557_neg
+Com_1532_neg	Com_333_pos	Com_25_pos
+Com_152_pos	Com_25_neg	Com_4836_pos
+Com_20573_pos	Com_261_neg	Com_693_pos
+Com_16544_pos	Com_26_neg	Com_699_pos
+Com_174_pos	Com_4534_neg	Com_2715_neg
+Com_1044_neg	Com_154_neg	Com_146_pos
+Com_399_pos	Com_662_pos	Com_648_neg
+Com_785_neg	Com_1030_neg	Com_1567_neg
+Com_5414_pos	Com_2557_neg	Com_311_pos
+Com_1724_pos	Com_693_pos	Com_12674_neg
+Com_1064_neg	Com_1155_neg	Com_2175_pos
+Com_14301_pos	Com_976_neg	Com_5061_neg
+Com_78_neg	Com_1780_neg	Com_634_neg
+Com_2553_neg	Com_6899_pos	Com_10314_neg
+Com_46_neg	Com_6266_neg	Com_1722_pos
+Com_146_pos	Com_694_pos	Com_855_pos
+Com_6195_neg	Com_1090_neg	Com_1644_neg
+Com_8236_neg	Com_2221_neg	Com_3368_pos
+Com_9257_pos	Com_1679_pos	Com_1640_neg
+Com_1020_neg	Com_7_neg	Com_3534_pos
+Com_136_pos	Com_5061_neg	Com_1679_pos
+Com_31_neg	Com_1683_neg	Com_8000_pos
+Com_605_pos	Com_352_neg	Com_8151_pos
+Com_5740_pos	Com_2715_neg	Com_1961_neg
+Com_1046_neg	Com_12553_pos	Com_12336_neg
+Com_1015_neg	Com_3368_pos	Com_9611_pos
+Com_1567_neg	Com_2072_neg	Com_154_neg
+Com_18481_pos	Com_5765_pos	Com_261_neg
+Com_677_neg	Com_342_pos	Com_3006_pos
+Com_20680_pos	Com_10792_neg	Com_46_neg
+Com_555_pos	Com_8151_pos	Com_10973_pos
+Com_1261_neg	Com_7993_neg	Com_681_pos
+Com_3731_pos	Com_747_pos	Com_5735_neg
+Com_10343_pos	Com_1351_neg	Com_984_pos
+Com_10009_pos	Com_241_neg	Com_1538_pos
+Com_3655_pos	Com_1722_pos	Com_6266_neg
+Com_4775_neg	Com_1644_neg	Com_3648_pos
+Com_12_pos	Com_965_neg	Com_1832_pos
+Com_2234_neg	Com_15097_pos	Com_3234_pos
+Com_5974_neg	Com_4044_neg	Com_6122_neg
+Com_763_pos	Com_9611_pos	Com_10979_neg
+Com_1313_pos	Com_3534_pos	Com_10037_pos
+Com_7277_pos	Com_643_pos	Com_7373_pos
+Com_222_neg	Com_169_pos	Com_4743_neg
+Com_5025_pos	Com_25_pos	Com_9818_neg
+Com_65_pos	Com_6311_pos	Com_4775_neg
+Com_7373_pos	Com_1832_pos	Com_15502_pos
+Com_23052_pos	Com_1803_neg	Com_555_pos
+Com_9338_neg	Com_2258_pos	Com_1803_neg
+Com_1598_pos	Com_7484_neg	Com_194_neg
+Com_1640_neg	Com_401_neg	Com_7484_neg
+Com_3720_pos	Com_12336_neg	Com_4832_pos
+Com_326_pos	Com_1817_pos	Com_10591_neg
+Com_4363_pos	Com_9818_neg	Com_3009_neg
+Com_42_neg	Com_5525_pos	Com_5332_pos
+Com_28_pos	Com_12674_neg	Com_3257_neg
+Com_590_pos	Com_490_neg	Com_2042_pos
+Com_2534_neg	Com_11319_neg	Com_3314_neg
+Com_490_neg	Com_1961_neg	Com_287_pos
+Com_7536_pos	Com_1593_neg	Com_7696_neg
+Com_13309_neg	Com_9988_pos	Com_4495_neg
+Com_1145_pos	Com_10037_pos	Com_3627_pos
+Com_1325_pos	Com_2042_pos	Com_3084_neg
+Com_100_pos	Com_7817_neg	Com_9988_pos
+Com_13775_pos	Com_15502_pos	Com_468_neg
+Com_53_pos	Com_3648_pos	Com_12768_pos
+Com_8450_pos	Com_311_pos	Com_2019_neg
+Com_1068_pos	Com_3220_pos	Com_601_pos
+Com_15216_pos	Com_53_neg	Com_53_neg
+Com_2167_pos	Com_10979_neg	Com_1813_neg
+Com_3476_pos	Com_7655_pos	Com_15097_pos
+Com_5785_pos	Com_7085_pos	Com_170_pos
+Com_1056_pos	Com_5616_pos	Com_7655_pos
+Com_27682_pos	Com_3424_pos	Com_5081_neg
+Com_1648_pos	Com_10874_neg	Com_17189_neg
+Com_2607_pos	Com_4743_neg	Com_1155_neg
+Com_1884_neg	Com_6339_pos	Com_1532_pos
+Com_1097_neg	Com_12768_pos	Com_7678_pos
+Com_7696_neg	Com_2426_pos	Com_1351_neg
+Com_18942_pos	Com_11575_neg	Com_401_neg
+Com_73_neg	Com_6122_neg	Com_677_neg
+Com_644_neg	Com_601_pos	Com_152_pos
+Com_12491_pos	Com_611_neg	Com_3424_pos
+Com_7748_pos	Com_1019_pos	Com_3864_neg
+Com_659_pos	Com_2019_neg	Com_1090_neg
+Com_3257_neg	Com_2175_pos	Com_15495_pos
+	Com_2686_neg	Com_16005_neg
+	Com_318_neg	Com_320_neg
+	Com_1266_pos	Com_10792_neg
+	Com_6450_pos	Com_352_neg
+	Com_9018_pos	Com_8873_pos
+	Com_7739_pos	Com_169_pos
+	Com_15495_pos	Com_2618_pos
+	Com_468_neg	Com_6734_pos
+	Com_2652_pos	Com_7536_pos
+	Com_612_pos	Com_611_neg
+	Com_3136_pos	Com_112_pos
+	Com_13512_neg	Com_2597_pos
+	Com_7678_pos	Com_16786_pos
+	Com_17472_neg	Com_2258_pos
+	Com_10591_neg	Com_4461_neg
+	Com_10314_neg	Com_5525_pos
+	Com_16786_pos	Com_10888_pos
+	Com_17189_neg	Com_8569_neg
+	Com_3084_neg	Com_2072_neg
+	Com_2248_pos	Com_222_neg
+	Com_942_pos	Com_4244_pos
+	Com_963_pos	Com_6219_neg
+	Com_1316_neg	Com_6308_neg
+	Com_2961_pos	Com_2590_pos
+	Com_5562_neg	Com_3220_pos
+	Com_5735_neg	Com_326_pos
+	Com_3864_neg	Com_2120_neg
+	Com_16855_neg	Com_7817_neg
+	Com_2618_pos	Com_346_neg
+	Com_320_neg	Com_4378_pos
+	Com_4098_neg	Com_820_neg
+	Com_109_neg	Com_42_neg
+	Com_3273_neg	Com_6311_pos
+	Com_3627_pos	Com_9018_pos
+	Com_4378_pos	Com_6450_pos
+	Com_4832_pos	Com_2961_pos
+	Com_648_neg	Com_3273_neg
+	Com_8000_pos	Com_342_pos
+	Com_16005_neg	Com_11702_pos
+	Com_2563_pos	Com_2330_pos
+	Com_3314_neg	Com_5840_pos
+	Com_6603_neg	Com_1583_neg
+	Com_14551_neg	Com_8657_pos
+	Com_399_pos	Com_1020_neg
+	Com_4350_neg	Com_8487_pos
+	Com_10973_pos	Com_25_neg
+	Com_2399_neg	Com_4117_neg
+	Com_1336_pos	Com_1324_neg
+	Com_6989_pos	Com_26_neg
+	Com_21364_pos	Com_2690_pos
+	Com_13522_neg	Com_694_pos
+	Com_14960_pos	Com_12553_pos
+	Com_19854_neg	Com_1017_pos
+	Com_2673_pos	Com_2129_pos
+	Com_283_neg	Com_4098_neg
+	Com_153_neg	Com_7177_pos
+	Com_415_pos	Com_10657_pos
+	Com_8657_pos	Com_2114_pos
+	Com_1532_pos	Com_6647_neg
+	Com_287_pos	Com_9205_pos
+	Com_440_pos	Com_2097_pos
+	Com_6_neg	Com_9798_neg
+	Com_12604_pos	Com_309_pos
+	Com_4244_pos	Com_6272_pos
+	Com_11702_pos	Com_10626_pos
+	Com_744_neg	Com_3446_pos
+	Com_2590_pos	Com_6296_pos
+	Com_5287_pos	Com_9925_pos
+	Com_2330_pos	Com_2426_pos
+	Com_12510_pos	Com_7200_pos
+	Com_3031_neg	Com_10785_neg
+	Com_867_neg	Com_4465_neg
+	Com_984_pos	Com_5004_neg
+	Com_10888_pos	Com_4350_neg
+	Com_2120_neg	Com_4206_neg
+	Com_2597_pos	Com_8344_pos
+	Com_6296_pos	Com_1279_pos
+	Com_9205_pos	Com_13150_pos
+	Com_9798_neg	Com_6989_pos
+	Com_10657_pos	Com_744_neg
+	Com_6219_neg	Com_314_pos
+	Com_4206_neg	Com_662_pos
+	Com_18172_pos	Com_7_neg
+	Com_8873_pos	Com_8191_pos
+	Com_146_pos	Com_2215_neg
+	Com_16320_neg	Com_12604_pos
+	Com_4279_pos	Com_433_pos
+	Com_1813_neg	Com_18940_pos
+	Com_61_pos	Com_10346_neg
+	Com_663_pos	Com_17987_neg
+	Com_10785_neg	Com_4095_pos
+	Com_1640_neg	Com_4279_pos
+	Com_3541_pos	Com_21364_pos
+	Com_5004_neg	Com_333_pos
+	Com_3566_neg	Com_5895_neg
+	Com_731_neg	Com_14633_pos
+	Com_8344_pos	Com_42_pos
+	Com_14093_pos	Com_4691_neg
+	Com_5332_pos	Com_5804_neg
+	Com_9925_pos	Com_1117_neg
+	Com_4495_neg	Com_318_neg
+	Com_3257_neg	Com_136_pos
+	Com_7177_pos	Com_14893_pos
+	Com_18940_pos	Com_5765_pos
+	Com_21854_pos	Com_24269_pos
+	Com_10346_neg	Com_22200_pos
+	Com_1567_neg	Com_2289_neg
+	Com_3304_pos	Com_6689_pos
+	Com_24943_pos	Com_72_pos
+	Com_14893_pos	Com_8098_neg
+	Com_20202_neg	Com_6603_neg
+	Com_11991_pos	Com_7277_pos
+	Com_7211_pos	Com_153_neg
+	Com_22200_pos	Com_1799_pos
+	Com_3009_neg	Com_3304_pos
+	Com_5533_neg	Com_454_neg
+	Com_17829_neg	Com_20396_pos
+	Com_6170_neg	Com_2381_neg
+	Com_4095_pos	Com_303_pos
+	Com_6734_pos	Com_3167_pos
+	Com_7200_pos	Com_5102_pos
+	Com_17987_neg	Com_4789_pos
+	Com_16655_pos	Com_11706_pos
+	Com_2129_pos	Com_688_pos
+	Com_15394_pos	Com_963_pos
+	Com_5804_neg	Com_1316_pos
+	Com_7696_neg	Com_15835_pos
+	Com_6689_pos	Com_17184_neg
+	Com_1279_neg	Com_2399_neg
+	Com_1223_neg	Com_3613_pos
+	Com_3325_pos	Com_8203_neg
+	Com_9688_pos	Com_4522_pos
+	Com_7942_neg	Com_7239_neg
+	Com_6308_neg	Com_19792_pos
+	Com_4789_pos	Com_9472_pos
+	Com_8487_pos	Com_1165_pos
+	Com_1017_pos	Com_440_pos
+	Com_5041_pos	Com_5655_pos
+	Com_13887_pos	Com_1180_neg
+	Com_17498_pos	Com_7211_pos
+	Com_4671_pos	Com_283_neg
+	Com_17666_pos	Com_5041_pos
+	Com_7373_pos	Com_17141_neg
+	Com_8255_pos	Com_867_neg
+	Com_7646_pos	Com_1279_neg
+	Com_8013_pos	Com_9688_pos
+	Com_8234_pos	Com_1015_neg
+	Com_5895_neg	Com_14551_neg
+	Com_20396_pos	Com_17829_neg
+	Com_3172_neg	Com_3031_neg
+	Com_8947_pos	Com_677_pos
+	Com_4711_neg	Com_1634_pos
+	Com_3261_neg	Com_1649_pos
+	Com_4522_pos	Com_10514_pos
+	Com_21911_neg	Com_9254_neg
+	Com_7732_neg	Com_2221_neg
+	Com_896_pos	Com_9401_neg
+	Com_3167_pos	Com_1139_neg
+	Com_4862_pos	Com_7586_neg
+	Com_10102_pos	Com_7732_neg
+	Com_8827_pos	Com_7646_pos
+	Com_1649_pos	Com_8255_pos
+	Com_4461_neg	Com_1106_pos
+	Com_1583_neg	Com_16855_neg
+	Com_5932_neg	Com_2281_pos
+	Com_309_pos	Com_1097_neg
+	Com_9401_neg	Com_7055_pos
+	Com_1793_neg	Com_1769_pos
+	Com_371_neg	Com_5414_pos
+	Com_3613_pos	Com_177_pos
+	Com_5580_neg	Com_4671_pos
+	Com_1279_pos	Com_7501_pos
+	Com_12423_pos	Com_415_pos
+	Com_8_pos	Com_6970_pos
+	Com_314_pos	Com_3261_neg
+	Com_2791_neg	Com_576_pos
+	Com_9254_neg	Com_17046_pos
+	Com_13150_pos	Com_731_neg
+	Com_4303_neg	Com_1336_pos
+	Com_2289_neg	Com_2652_pos
+	Com_4465_neg	Com_7942_neg
+	Com_820_neg	Com_1340_neg
+	Com_1117_neg	Com_5950_neg
+		Com_775_neg
+		Com_15164_pos
+		Com_8705_pos
+		Com_1817_pos
+		Com_802_neg
+		Com_7748_pos
+		Com_12311_pos
+		Com_13512_neg
+		Com_1786_pos
+		Com_2139_pos
+		Com_4861_pos
+		Com_17498_pos
+		Com_3866_neg
+		Com_5370_neg
+		Com_3605_pos
+		Com_659_pos
+		Com_3476_pos
+		Com_2216_neg
+		Com_590_neg
+		Com_17472_neg
+		Com_2909_pos
+		Com_100_pos
+		Com_11319_neg
+		Com_10367_pos
+		Com_6545_pos
+		Com_2248_pos
+		Com_4303_neg
+		Com_5287_pos
+		Com_65_pos
+		Com_4049_pos
+		Com_763_pos
+		Com_2607_pos
+		Com_8013_pos
+		Com_1793_neg
+		Com_86_neg
+		Com_537_neg
+		Com_28_pos
+		Com_641_neg

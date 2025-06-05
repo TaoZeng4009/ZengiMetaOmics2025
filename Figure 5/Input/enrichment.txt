@@ -1,0 +1,11 @@
+layer3	Input.number	Background.number	pvalue	Group
+Biosynthesis of unsaturated fatty acids	8	10	0.004971305	In-TC-vs-Ex-TC
+Isoflavonoid biosynthesis	5	5	0.005403392	In-TC-vs-Ex-TC
+Purine metabolism	11	18	0.021921296	In-TC-vs-Ex-TC
+Flavonoid biosynthesis	6	8	0.026076589	In-TC-vs-Ex-TC
+Biosynthesis of unsaturated fatty acids	6	10	0.00507303	Ex-TC-vs-QY
+Isoflavonoid biosynthesis	5	5	0.009978455	In-TC-vs-QY
+Aminoacyl-tRNA biosynthesis	8	10	0.011785488	In-TC-vs-QY
+Cyanoamino acid metabolism	4	4	0.02513161	In-TC-vs-QY
+Glucosinolate biosynthesis	5	6	0.04008332	In-TC-vs-QY
+"Glycine, serine and threonine metabolism"	6	8	0.048584047	In-TC-vs-QY
